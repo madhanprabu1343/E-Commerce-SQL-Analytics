@@ -1,1 +1,6 @@
-
+payment_id,order_id,payment_mode,payment_status
+501,1001,Credit Card,Success
+502,1002,UPI,Success
+503,1003,Net Banking,Failed
+504,1004,UPI,Success
+505,1005,Credit Card,Pending
