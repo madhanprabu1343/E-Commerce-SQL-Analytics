@@ -1,1 +1,6 @@
-
+product_id,category,price
+101,Electronics,50000
+102,Clothing,2000
+103,Home Appliances,30000
+104,Books,500
+105,Footwear,3000
