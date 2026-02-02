@@ -30,6 +30,17 @@ operational efficiency using SQL.
 - SQL (MySQL / PostgreSQL)
 - GitHub for version control
 - AI tools for query validation and optimization
+- ## How to Run This Project
+
+1. Download CSV files from the `datasets/` folder
+2. Import them into MySQL or PostgreSQL
+3. Execute SQL files in the following order:
+   - 01_data_exploration.sql
+   - 02_joins_and_metrics.sql
+   - 03_advanced_analysis.sql
+   - 04_window_functions.sql
+   - 05_optimization.sql
+
 
 ## Sample Query
 ```sql
